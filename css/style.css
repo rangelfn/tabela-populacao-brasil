@@ -50,11 +50,16 @@ th, td, tr {
     
 }
 th {
-    background-color: rgb(29, 29, 29);
+    background-color: rgb(124, 124, 124);
     color: white;
 }
 
 tfoot {
     background-color: black;
+    color: white;
+}
+
+.grupo {
+    background-color: rgb(194, 194, 194);
     color: white;
 }
